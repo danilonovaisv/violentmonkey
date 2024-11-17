@@ -37,7 +37,7 @@
     "amo-upload": "^0.5.2",
     "babel-plugin-transform-modern-regexp": "^0.0.6",
     "cross-env": "^7.0.3",
-    "cross-spawn": "^7.0.3",
+    "cross-spawn": "^7.0.5",
     "del": "^6.1.1",
     "fancy-log": "^2.0.0",
     "gulp": "^4.0.2",
